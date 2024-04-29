@@ -2,7 +2,7 @@ resources:
   repositories:
     - repository: testowasp
       type: git
-      name: DEVSeCops/testowasp
+      name: Raedtoumi/testowasp
       ref: refs/heads/master
 
 trigger: none
